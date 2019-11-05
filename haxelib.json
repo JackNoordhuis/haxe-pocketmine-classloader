@@ -1,0 +1,19 @@
+{
+  "name": "haxe-pocketmine-classloader",
+  "url": "https://github.com/NxtLvLSoftware/haxe-pocketmine-classloader",
+  "license": "MIT",
+  "tags": [
+    "php",
+    "externs",
+    "pocketmine",
+    "classloader"
+  ],
+  "description": "Haxe externs for the pocketmine classloader components",
+  "version": "0.0.1",
+  "releasenote": "in-dev",
+  "contributors": [
+    "JackNoordhuis"
+  ],
+  "dependencies": {},
+  "classPath": "src"
+}

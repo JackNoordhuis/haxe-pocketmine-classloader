@@ -1,0 +1,4 @@
+-cp src
+--library phpnatives
+--library haxe-php-pthreads
+--php out
